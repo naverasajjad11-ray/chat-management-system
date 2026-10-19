@@ -66,4 +66,9 @@ Expected output after choosing `2` (View Chats):
 
 ## Author
 
-Navera Sajjad, BS Computer Science, University of Kamalia
+Navera Sajjad
+Sania Arham
+Ayesha Nasreen
+Areeba Umar
+ BS Computer Science
+ University of Kamalia
